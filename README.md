@@ -8,9 +8,9 @@
 
 Welcome to the AI Avatar Video Generator, your go-to platform for creating engaging and personalized video content effortlessly! Follow the steps below to utilize our powerful tool:
 
-1. **Sign Up**: 
-   - Visit [https://veoaifree.com/avatar-ai-video-generator/](https://veoaifree.com/avatar-ai-video-generator/) and create an account.
-   - Choose a plan that fits your needs (Free or Premium).
+1. **Access**: 
+   - Visit [https://veoaifree.com/avatar-ai-video-generator/](https://veoaifree.com/avatar-ai-video-generator/) without any limits.
+   - No registration is required but if you want to save history then you can register.
 
 2. **Choose a Template**:
    - Browse our extensive library of customizable templates.
